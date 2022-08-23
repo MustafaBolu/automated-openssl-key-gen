@@ -1,1 +1,1 @@
-# automatet-openssl-key-gen
+# automated-openssl-key-gen
